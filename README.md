@@ -86,3 +86,5 @@ También puedes modificar los colores en los componentes usando las clases de Ta
 
 5. Agregar o quitar secciones
 En App.jsx, el componente principal renderiza las secciones en orden. Puedes comentar o agregar nuevos componentes importándolos previamente.
+
+ACA TRATANDO DE ARREGLAR EL DEPLOY
