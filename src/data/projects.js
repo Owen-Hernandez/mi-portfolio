@@ -6,7 +6,7 @@ export const projectsData = [
     technologies: ["Python", "Flask", "SQLite", "Flask-SocketIO", "Flask-Bcrypt", "Pandas", "HTML", "CSS", "JavaScript"],
     image: "images/digiturno.jpg",        // ✅ Ruta relativa (sin barra inicial)
     demoLink: "#",
-    repoLink: "https://github.com/tuusuario/digiturno-ips",
+    repoLink: "https://github.com/Owen-Hernandez/digiturno-ips",
   },
   {
     id: 2,
